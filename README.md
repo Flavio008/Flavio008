@@ -5,4 +5,4 @@
 
 ### Find me at
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio-Gonzalez&color=<orange>?style=for-the-badge&logo=appveyor
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio_Gonzalez-blue?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=lightgrey)]
