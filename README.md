@@ -3,6 +3,6 @@
 <!--
 **Flavio008/Flavio008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Where to find me
+### Find me at
 
-- www.linkedin.com/in/flavio-gez
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio-Gonzalez&color=<orange>?style=for-the-badge&logo=appveyor
