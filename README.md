@@ -5,4 +5,4 @@
 
 ### Where to find me
 
--www.linkedin.com/in/flavio-gez
+- www.linkedin.com/in/flavio-gez
